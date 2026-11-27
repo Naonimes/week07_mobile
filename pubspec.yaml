@@ -1,0 +1,13 @@
+name: week07
+description: A new Flutter project.
+
+environment:
+  sdk: '^3.13.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.10.5+5
+  sqflite: ^2.4.6
+  path: ^1.9.1
+  get: ^4.7.3
